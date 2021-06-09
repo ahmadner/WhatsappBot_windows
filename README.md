@@ -11,7 +11,7 @@ Python libraries used to build my content aggregator
 * wikipedia : Wikipedia is a Python library that makes it easy to access and parse data from Wikipedia.
 * os : The os module provides dozens of functions for interacting with the operating system.
 * random : random can generate random numbers in Python by using random module. 
-* time : time module provides various time-related functions
+* time : time module provides various time-related functions.
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
