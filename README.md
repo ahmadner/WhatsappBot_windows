@@ -81,7 +81,7 @@ sudo pip3 install wikipedia
 ```sh
 git clone https://github.com/ahmadner/WhatsappBot_windows.git
 ```
-##usage
+## usage
 
 1. open folder whatsappBot_windows on cmd 
 ```sh
