@@ -92,7 +92,7 @@ cd whatsappBot_windows
 python whatsappBot.py
 ```
 
-* you can install whatsappBot on linux from [hear](https://github.com/ahmadner/WhatsappBot)
+* you can install whatsappBot on linux from [here](https://github.com/ahmadner/WhatsappBot)
 
 ## Contributing
 
