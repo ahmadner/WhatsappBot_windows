@@ -66,16 +66,16 @@ cd pytube
 python -m pip install .
 ```
 ```sh
-sudo pip3 install selenium
+pip3 install selenium
 ```
 ```sh
-sudo pip3 install pytube
+pip3 install pytube
 ```
 ```sh
-sudo pip3 install datetime
+pip3 install datetime
 ```
 ```sh
-sudo pip3 install wikipedia
+pip3 install wikipedia
 ```
 * dwonload the Bot :
 ```sh
