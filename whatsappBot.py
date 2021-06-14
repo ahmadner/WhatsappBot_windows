@@ -9,7 +9,7 @@ try :
     from xpath import xpathLink
     from proj import projList
 except:print('Error in librarys')
-driverLoc =(fr'C:\\Users\\Technipal\\Desktop\\ww\\whatsappBot\\chromedriver.exe')
+driverLoc =(fr'chromedriver.exe')
 dwonloadLoc = fr"C:{chr(92)}dwonload_whatsapp{chr(92)}"
 driver = webdriver.Chrome(driverLoc)
 print ('\n[*] opening Google-chrome ...\n')
